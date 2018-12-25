@@ -1,4 +1,4 @@
-#Maze Generator
+# Maze Generator
 This program uses recursive backtracking to generate a maze.
 Later I will also create new branches in GitHub to try to make 
 the program solve its own maze after
